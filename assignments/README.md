@@ -107,8 +107,6 @@ This will:
 4. Display performance graphs
 
 To change target value:
-select a new value for t inside the main() function
+select a new value for `t` inside the `main()` function
 
 ---
-
-
