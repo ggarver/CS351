@@ -68,8 +68,6 @@ def runtime_tbl(sizes, avg_times):
     print("\nRuntime Slowdown Factors:")
     print(df.to_string(index=False))
 
-
-
 def visualize(sizes, times, ops): # Create a graph plotting array size vs. runtime
 
     # Plot Average Runtime
